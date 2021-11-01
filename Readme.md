@@ -1,4 +1,4 @@
-## Short demo that demonstrate how to run Rust code in Golang
+## Short demo that demonstrates how to run Rust code in Golang
 
 ### Rust project
 1. Initial rust program:
