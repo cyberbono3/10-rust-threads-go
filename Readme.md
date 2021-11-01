@@ -1,4 +1,4 @@
-## Small demo that runs a rust program that spins up 10 threatds in go
+## Short demo that demonstrate how to run Rust code in Golang
 
 ### Rust project
 1. Initial rust program:
